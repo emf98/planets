@@ -1,4 +1,4 @@
 *.dat
 !final.dat
-results/plots/
-
+results/*
+!results/data/
